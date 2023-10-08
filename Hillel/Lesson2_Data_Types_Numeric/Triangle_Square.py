@@ -7,3 +7,4 @@ cat2 = float(input("Input triangle Length side 2: "))
 S = float(0.5)*cat1*cat2
 
 print("The square of your triangle is :", round(S, 2), "cm²")
+
