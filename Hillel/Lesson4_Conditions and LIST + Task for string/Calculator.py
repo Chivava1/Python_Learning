@@ -15,7 +15,7 @@ if choice == "1":
 elif choice == "2":
     result = num1 - num2
     option = "-"
-elif (choice == "3"):
+elif choice == "3":
     result = num1 * num2
     option = "*"
 elif choice == "4":
